@@ -1,0 +1,25 @@
+<html>
+    <head>
+       <link href="style.css" rel="stylesheet">
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    </head>
+    <body>
+        
+        <nav class="Nav">
+            <ul>
+                <li> <img src="myntra_logo.png" height="50" width="70"></li>
+                <li><a href="#">Men</a></li>
+                <li><a href="#">Women</a></li>
+                <li><a href="#">Kids</a></li>
+                <li><a href="#">Home&Living</a></li>
+                <li><a href="#">Beauty</a></li>
+                <li><input type="text" name=""></li>
+                <li class="Nav-Right"><a href="#">Bag</a></li>
+                <li class="Nav-Right"><a href="#">Wishlist</a></li>
+                <li class="Nav-Right"><a href="#">Profile</a></li>
+            </ul>
+        </nav>
+    </body>
+</html>
